@@ -1,0 +1,30 @@
+Projet : Web-Gestent
+
+
+Equipe: 
+	- FORT Pierre-Alexandre
+	- PAUCANT Nicolas
+	
+
+Choix Projet: Web-Gestion
+
+	Notre projet est le suivant, nous voulons mettre en place un site-web permettant de la Gestion aussi bien comptable que Commerciale des entreprises avec un accès par identifiant/mot de passe et gestion compte Admin. 
+Ce site pourra être aussi bien utilisé en intranet que sur l’internet.
+
+Notre but pour se projet est de permettre aux entreprises de suivre en temps réel leurs activités et donc d’agir en conséquence si il y a des problèmes. 
+Nous voulons proposer les fonctionnalités de facturations, de fiche de stock…
+
+Nom de l'entreprise: Virtual corporation
+
+Nous sommes une jeune société tout juste monté dont le but est de proposer diverses applications destiné aux entreprises et aux particuliers. 
+Nous travaillons à 2 associés sur les projets que nous réalisons pour les clients.
+Nous assurons la maintenance et la mise des jours des logiciels que nous développons.
+
+Liste des Tâches:
+	- réalisation de bases de données produites / comptes comptables/stock / requêtes SQL … (difficulté moyenne)
+	- codages sur Eclipse des différentes formules et applications en java (difficulté : moyenne)
+	- création interface Comptes utilisateurs + Administrateur : nous pensons faire la gestion avec Php Admin. (difficulté : haute)
+	-  réalisation du site web en html (difficulté : moyenne)
+	-  Gestion des commandes et   exportation des documents sur des fichiers Word/Excel/PDF (difficulté moyenne)
+	
+		 
